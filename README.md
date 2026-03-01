@@ -22,19 +22,20 @@ Total snacks analyzed: 6
 
 ## Tableau Dashboard
 🔗 View the interactive dashboard here:
+
 https://public.tableau.com/views/SnackNutritionAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Key Insights:
-Generic Granola Bar (medium) had the highest calorie content (342 kcal)
-Regular Snack Crackers had the lowest calorie count (82 kcal)
-Calorie variation across snack types is significant
+- Generic Granola Bar (medium) had the highest calorie content (342 kcal)
+- Regular Snack Crackers had the lowest calorie count (82 kcal)
+- Calorie variation across snack types is significant
 
 Skills Demonstrated:
-Data modeling
-SQL querying (SELECT, ORDER BY, LIMIT, AVG)
-Data cleaning
-Data visualization
-Dashboard design
+- Data modeling
+- SQL querying (SELECT, ORDER BY, LIMIT, AVG)
+- Data cleaning
+- Data visualization
+- Dashboard design
 
 ## SQL Work Performed
 - Created table with primary key
