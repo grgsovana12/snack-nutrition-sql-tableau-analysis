@@ -39,7 +39,7 @@ LIMIT 1;
 
 Tableau Dashboard
 🔗 View the interactive dashboard here:
-https://public.tableau.com/authoring/SnackNutritionAnalysisDashboard/Dashboard1#1
+https://public.tableau.com/views/SnackNutritionAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Key Insights:
 Generic Granola Bar (medium) had the highest calorie content (342 kcal)
