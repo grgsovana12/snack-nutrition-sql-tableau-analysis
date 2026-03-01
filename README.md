@@ -37,7 +37,7 @@ FROM snacks
 ORDER BY calories DESC
 LIMIT 1;
 
-Tableau Dashboard
+## Tableau Dashboard
 🔗 View the interactive dashboard here:
 https://public.tableau.com/views/SnackNutritionAnalysisDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
